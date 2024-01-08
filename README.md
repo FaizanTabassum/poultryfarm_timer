@@ -15,9 +15,9 @@ This repository contains the code for a Poultry Farm Timer, designed to automate
 
 ## Hardware Requirements
 
-- Microcontroller (e.g., Arduino)
+- Arduino nano
 - Linear Actuator
-- RTC Module
+- RTC Module (DS3231)
 - OLED Display
 - Relay Modules
 - Buttons for user interaction
